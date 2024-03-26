@@ -1,3 +1,4 @@
 *.hcl
 dev-vpc/.terraform/
 west-vpc/.terraform/
+aws_creds
